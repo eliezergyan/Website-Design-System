@@ -1,0 +1,156 @@
+* {
+    box-sizing: border-box;
+    
+  }
+  
+  h1{
+    text-align: center;
+  }
+  .colors-container {
+    border: 1px solid black;
+  }
+  
+  
+  .color-panel {
+    width: 180px;
+    height: 400px;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    margin: 10px;
+    padding: 5px;
+  }
+  
+  .color-panel p {
+    margin: auto;
+  }
+  
+  .blue-sapphire {
+    background-color: #005f73;
+  }
+  
+  .gamboge {
+    background-color: #ee9b00;
+  }
+  
+  .alloy-orange {
+    background-color: #ca6702;
+  }
+  
+  .mahogany {
+    background-color: #bb3e03;
+  }
+  
+  .rufous {
+    background-color: #ae2012;
+  }
+  
+  .ruby-red {
+    background-color: #9b2226;
+  }
+  
+  .fonts-container {
+    border: 1px solid black;
+  }
+  
+  .font-panel {
+   display: inline-block;
+   width: 45%;
+   padding: 10px;
+   margin: 10px auto;
+  }
+  
+  .font-label {
+   text-decoration: underline;
+  }
+  
+  .font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+  }
+  .font-montserrat .light {  
+    font-weight: 300;
+  }
+  
+  .font-montserrat .regular {
+    font-weight: 400;
+  }
+  
+  .font-montserrat .medium {
+    font-weight: 500;
+  }
+  
+  .font-montserrat .bold {
+    font-weight: 700;
+  }
+  
+  .font-roboto {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .font-roboto .light {  
+    font-weight: 300;
+  }
+  
+  .font-roboto .regular {
+    font-weight: 400;
+  }
+  
+  .font-roboto .medium {
+    font-weight: 500;
+  }
+  
+  .font-roboto .bold {
+    font-weight: 700;
+  }
+  
+  .font-raleway {
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  .font-raleway .light {  
+    font-weight: 300;
+  }
+  
+  .font-raleway .medium {
+    font-weight: 500;
+  }
+  
+  .font-raleway .bold {
+    font-weight: 700;
+  }
+  
+  .font-raleway .black {
+    font-weight: 900;
+  }
+  
+  .font-nunito {
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  .font-nunito .light {  
+    font-weight: 300;
+  }
+  
+  .font-nunito .medium {
+    font-weight: 500;
+  }
+  
+  .font-nunito .bold {
+    font-weight: 700;
+  }
+  
+  .font-nunito .black {
+    font-weight: 900;
+  }
+  
+  .styles-container {
+    border: 1px solid black;
+  }
+  
+  .styles-container h1 {
+    text-align: left;
+  }
+  
+  .styles-container .panel {
+    padding: 10px;
+  }
